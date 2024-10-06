@@ -5,7 +5,7 @@ This site documents various DSA (Data Structures and Algorithms) problems with d
 ## Problems
 
 ### Arrays
-- [Nearby Duplicates](/2024-10-07-NearbyDuplicates)
+- [Nearby Duplicates]({{ site.baseurl }}/2024-10-07-NearbyDuplicates)
 
 ### Linked Lists
 

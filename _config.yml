@@ -1,3 +1,4 @@
 title: "My DSA Problems"
 description: "A collection of DSA problems, solutions, and real-life applications."
+baseurl: "/DSA-"
 theme: jekyll-theme-cayman
